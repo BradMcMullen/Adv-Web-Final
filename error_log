@@ -1,0 +1,49 @@
+[21-Apr-2013 21:32:51 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/mattmhaw/public_html/final/checklogin.php:4) in /home/mattmhaw/public_html/final/checklogin.php on line 5
+[21-Apr-2013 21:32:51 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mattmhaw/public_html/final/checklogin.php:4) in /home/mattmhaw/public_html/final/checklogin.php on line 5
+[21-Apr-2013 21:32:51 America/New_York] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'db200162912'@'localhost' (using password: YES) in /home/mattmhaw/public_html/final/db/database.php on line 12
+[21-Apr-2013 21:33:39 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/mattmhaw/public_html/final/checklogin.php:4) in /home/mattmhaw/public_html/final/checklogin.php on line 5
+[21-Apr-2013 21:33:39 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mattmhaw/public_html/final/checklogin.php:4) in /home/mattmhaw/public_html/final/checklogin.php on line 5
+[21-Apr-2013 21:33:39 America/New_York] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'db200162912'@'localhost' (using password: YES) in /home/mattmhaw/public_html/final/db/database.php on line 12
+[22-Apr-2013 21:28:05 America/New_York] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mattmhaw/public_html/final/subuserinfo.php on line 17
+[22-Apr-2013 21:28:32 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/mattmhaw/public_html/final/subuserinfo.php on line 24
+[22-Apr-2013 21:32:13 America/New_York] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mattmhaw/public_html/final/subuserinfo.php on line 18
+[22-Apr-2013 21:32:32 America/New_York] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mattmhaw/public_html/final/subuserinfo.php on line 18
+[22-Apr-2013 21:35:10 America/New_York] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mattmhaw/public_html/final/subuserinfo.php on line 18
+[22-Apr-2013 21:36:44 America/New_York] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mattmhaw/public_html/final/subuserinfo.php on line 18
+[22-Apr-2013 21:37:37 America/New_York] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mattmhaw/public_html/final/subuserinfo.php on line 18
+[22-Apr-2013 21:40:36 America/New_York] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/mattmhaw/public_html/final/subuserinfo.php on line 18
+[22-Apr-2013 21:41:38 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mattmhaw/public_html/final/subuserinfo.php on line 18
+[22-Apr-2013 21:42:21 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mattmhaw/public_html/final/subuserinfo.php on line 17
+[22-Apr-2013 21:44:59 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/mattmhaw/public_html/final/subuserinfo.php on line 24
+[22-Apr-2013 21:45:10 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/mattmhaw/public_html/final/subuserinfo.php on line 24
+[22-Apr-2013 21:54:43 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/subuserinfo.php on line 24
+[22-Apr-2013 22:30:45 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/mattmhaw/public_html/final/userinfo.php on line 89
+[22-Apr-2013 22:30:48 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/mattmhaw/public_html/final/userinfo.php on line 89
+[22-Apr-2013 22:30:49 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/mattmhaw/public_html/final/userinfo.php on line 89
+[22-Apr-2013 22:30:51 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/mattmhaw/public_html/final/userinfo.php on line 89
+[22-Apr-2013 22:30:51 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/mattmhaw/public_html/final/userinfo.php on line 89
+[22-Apr-2013 22:30:51 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/mattmhaw/public_html/final/userinfo.php on line 89
+[22-Apr-2013 22:30:51 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/mattmhaw/public_html/final/userinfo.php on line 89
+[22-Apr-2013 22:30:53 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/mattmhaw/public_html/final/userinfo.php on line 89
+[22-Apr-2013 23:03:20 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:21 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:21 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:22 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:22 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:22 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:36 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:39 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:41 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:41 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:42 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:47 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:48 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:48 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:48 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:49 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:03:49 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/mattmhaw/public_html/final/addme.php on line 30
+[22-Apr-2013 23:06:42 America/New_York] PHP Fatal error:  Call to undefined function includes() in /home/mattmhaw/public_html/final/addme.php on line 26
+[22-Apr-2013 23:08:41 America/New_York] PHP Fatal error:  Call to undefined function includes() in /home/mattmhaw/public_html/final/addme.php on line 26
+[23-Apr-2013 00:16:09 America/New_York] PHP Parse error:  syntax error, unexpected T_ECHO in /home/mattmhaw/public_html/final/userinfo.php on line 104
+[23-Apr-2013 21:22:39 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mattmhaw/public_html/final/checklogin.php:6) in /home/mattmhaw/public_html/final/checklogin.php on line 7
+[23-Apr-2013 21:22:39 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mattmhaw/public_html/final/checklogin.php:6) in /home/mattmhaw/public_html/final/checklogin.php on line 30
